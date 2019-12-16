@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="salary" type="id" />
+    <item name="insert" type="id" />
+    <item name="delete" type="id" />
+    <item name="update" type="id" />
+    <item name="select" type="id" />
+    <item name="sav" type="id" />
+    <item name="ret" type="id" />
+    <item name="del" type="id" />
+    <item name="textView" type="id" />
+    <item name="submit" type="id" />
+</resources>
